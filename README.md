@@ -2,7 +2,7 @@
   <h1>Hi👋, I'm Zinhle</h1>
 </div>
 <div>
-  <h2>I am a passionate frontend developer</h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+pseudonym+is+TechGirlNextDoor" alt="Typing SVG" /></a>
 </div>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
